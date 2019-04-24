@@ -1,0 +1,204 @@
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\addIcon.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\checkedStar.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\createIcon.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\defaultContact.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\hoverStar.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\saveIcon.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\tpGestionContact.exe
+D:\Users\Maxim\source\repos\tpGestionContact\bin\Debug\tpGestionContact.pdb
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\MainWindow.g.cs
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\App.g.cs
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\MainWindow.baml
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.exe
+D:\Users\Maxim\source\repos\tpGestionContact\obj\Debug\tpGestionContact.pdb
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\addIcon.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\checkedStar.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\createIcon.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\defaultContact.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\hoverStar.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\saveIcon.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\tpGestionContact.exe
+D:\Users\maxim\source\reposTP\tpGestionContact\bin\Debug\tpGestionContact.pdb
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\MainWindow.g.cs
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\App.g.cs
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\MainWindow.baml
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.exe
+D:\Users\maxim\source\reposTP\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\MainWindow.g.cs
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\App.g.cs
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\addIcon.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\checkedStar.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\createIcon.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\defaultContact.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\hoverStar.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\saveIcon.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\MainWindow.baml
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\obj\Debug\tpGestionContact.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\reposTP\tpGestionContact\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\addIcon.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\checkedStar.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\createIcon.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\defaultContact.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\hoverStar.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\saveIcon.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\MainWindow.g.cs
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\App.g.cs
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\MainWindow.baml
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\FinalVersio\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\addIcon.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\checkedStar.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\createIcon.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\defaultContact.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\hoverStar.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\saveIcon.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\MainWindow.g.cs
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\App.g.cs
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\MainWindow.baml
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\C#\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\MainWindow.g.cs
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\Window2.g.cs
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\App.g.cs
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\addIcon.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\checkedStar.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\createIcon.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\defaultContact.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\hoverStar.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\saveIcon.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\MainWindow.baml
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\Window2.baml
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\tpGestionContact.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\Window3.g.cs
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\tpGestionContact\obj\Debug\Window3.baml
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\MainWindow.g.cs
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\Window2.g.cs
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\Window3.g.cs
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\App.g.cs
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact_MarkupCompile.lref
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\addIcon.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\checkedStar.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\createIcon.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\defaultContact.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\deleteIcon.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\hoverStar.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\saveIcon.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Resources\uncheckedStar.png
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\tpGestionContact.exe.config
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\tpGestionContact.exe
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\tpGestionContact.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\MainWindow.baml
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\Window2.baml
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\Window3.baml
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.g.resources
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.Properties.Resources.resources
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.csproj.GenerateResource.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\tpGestionContact\obj\Debug\tpGestionContact.csproj.CopyComplete

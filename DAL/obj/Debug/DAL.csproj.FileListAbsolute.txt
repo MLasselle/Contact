@@ -1,0 +1,36 @@
+C:\Users\Ctrevino\Desktop\reposTP\DAL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\reposTP\DAL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\reposTP\DAL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\reposTP\DAL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\reposTP\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\reposTP\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\reposTP\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\reposTP\DAL\obj\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\reposTP\DAL\obj\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\obj\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\DAL\obj\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\obj\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\DAL\obj\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\obj\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\DAL\obj\Debug\DAL.pdb

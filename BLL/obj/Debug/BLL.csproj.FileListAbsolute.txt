@@ -1,0 +1,44 @@
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\reposTP\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\reposTP\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\reposTP\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\reposTP\BLL\obj\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\reposTP\BLL\obj\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\reposTP\BLL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\obj\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\FinalVersio\BLL\obj\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\obj\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\TP Final Version Cesar et Maxime\BLL\obj\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\BLL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\DAL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\Model.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\DAL.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\bin\Debug\Model.pdb
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\obj\Debug\BLL.dll
+C:\Users\Ctrevino\Desktop\Contacts v.2.0\BLL\obj\Debug\BLL.pdb

@@ -1,0 +1,23 @@
+﻿<Window x:Class="tpGestionContact.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tpGestionContact"
+        mc:Ignorable="d"
+        Title="Contact list lvoyageur" Height="241.4" Width="568.725" FontFamily="Yu Gothic UI">
+    <Grid Margin="-10,0,-5.6,0" HorizontalAlignment="Right" Width="578" Height="216" VerticalAlignment="Top" Background="#FF56A29E">
+
+        <Label Content="User:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="111,35,0,0" Background="#FF56A29E" Height="53" Width="93" FontSize="36"/>
+        <Label Content="password:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,122,0,0" Height="53" Width="169" FontSize="36">
+            <Label.Background>
+                <ImageBrush/>
+            </Label.Background>
+        </Label>
+        <TextBox  x:Name="txtUser" HorizontalAlignment="Left" Height="34" Margin="209,54,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="226" TextChanged="TxtUser_TextChanged"/>
+        <TextBox  x:Name="txtPassword" HorizontalAlignment="Left" Height="34" Margin="209,141,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="226" TextChanged="TextBox_TextChanged"/>
+        <Button x:Name="btnSend" Content="SEND" HorizontalAlignment="Left" Height="34" Margin="475,141,0,0" VerticalAlignment="Top" Width="93" Click="TxtUser_Click" FontFamily="Century Gothic" FontWeight="Bold"/>
+
+    </Grid>
+</Window>
+
